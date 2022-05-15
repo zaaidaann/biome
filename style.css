@@ -26,20 +26,15 @@ html, body {
 		--delay: .3s;
 }
 
-.description, .source{
-		color:white;
-		text-align:center;
-		margin: 27px auto;
-		margin-top:10px;
-                margin-bottom:30px;
-		width:90%;
-		max-width: 500px;
-}
 
-.source{
+.source {
+                color:white;
+		text-align:center;
 		font-size:small;
 		margin-top:50px;
                 margin-bottom:30px;
+                width:90%;
+		max-width: 500px;
 }
 
 .profilePicture, .profilePicture img {
