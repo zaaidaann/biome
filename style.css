@@ -27,11 +27,11 @@ html, body {
 }
 
 
-.source {
+.ending {
                 color:white;
 		text-align:center;
 		font-size:small;
-		margin-top:50px;
+		margin-top:30px;
                 margin-bottom:30px;
                 width:90%;
 		max-width: 500px;
