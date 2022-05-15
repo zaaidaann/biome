@@ -131,7 +131,7 @@ html, body {
 		color: rgba(0, 0, 0, 0.5);
 }
 
-..footer {
+.footer {
   position: floating;
   left: 0;
   bottom: 0;
