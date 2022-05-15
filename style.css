@@ -130,3 +130,13 @@ html, body {
 		color: #000; /* Fallback for older browsers */
 		color: rgba(0, 0, 0, 0.5);
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size:small
+}
