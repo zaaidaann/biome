@@ -14,4 +14,5 @@ Styling inspiration on buttons from https://github.com/RyanLefebvre/TREE
 - JS
     
 ## Project Results
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8249585-8706-46ba-94d9-2883cd706bcf/deploy-status)](https://app.netlify.com/sites/aidann/deploys)
 https://aidann.netlify.app
