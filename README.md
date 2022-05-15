@@ -1,4 +1,4 @@
-## Linktree
+## BioMe
 Open source alternative to services like linktree and manylink. Displays a tree or list of links I want to direct people towards. 
 
 ## Motivation
@@ -14,4 +14,4 @@ Styling inspiration on buttons from https://github.com/RyanLefebvre/TREE
 - JS
     
 ## Project Results
-https://Luois45.github.io/Linktree
+https://aidann.netlify.app
