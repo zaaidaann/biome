@@ -51,6 +51,16 @@ html, body {
 
 .userName {
 		color: var(--accentColor);
+		font-size: large;
+		font-weight: normal;
+		line-height: 1.25;
+		display: block;
+		width: 100%;
+		text-align: justify;
+		text-decoration: none;
+}
+.AboutMe {
+		color: var(--accentColor);
 		font-size: x-large;
 		font-weight: bold;
 		line-height: 1.25;
@@ -59,7 +69,6 @@ html, body {
 		text-align: center;
 		text-decoration: none;
 }
-
 .links {
 		max-width: 675px;
 		width: auto;
