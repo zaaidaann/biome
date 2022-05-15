@@ -53,7 +53,7 @@ html, body {
 		color: var(--accentColor);
 		font-size: large;
 		font-weight: normal;
-		line-height: 1.25;
+		line-height: 0.85;
 		display: block;
 		width: 100%;
 		text-align: center;
