@@ -49,7 +49,7 @@ html, body {
 		border-radius: 50%;
 }
 
-.userName {
+.AboutME {
 		color: var(--accentColor);
 		font-size: large;
 		font-weight: normal;
@@ -59,7 +59,7 @@ html, body {
 		text-align: justify;
 		text-decoration: none;
 }
-.AboutMe {
+.userName {
 		color: var(--accentColor);
 		font-size: x-large;
 		font-weight: bold;
