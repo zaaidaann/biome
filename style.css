@@ -49,14 +49,14 @@ html, body {
 		border-radius: 50%;
 }
 
-.AboutME {
+.aboutME {
 		color: var(--accentColor);
 		font-size: large;
 		font-weight: normal;
 		line-height: 1.25;
 		display: block;
 		width: 100%;
-		text-align: justify;
+		text-align: center;
 		text-decoration: none;
 }
 .userName {
