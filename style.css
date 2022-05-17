@@ -141,3 +141,9 @@ html, body {
   text-align: center;
   font-size:small
 }
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
